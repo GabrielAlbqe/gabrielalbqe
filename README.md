@@ -38,18 +38,20 @@ My name is Glaydson Gabriel de S. Albuquerque, but you can call me Gabriel Albuq
 <br/>
 
 ### 📊 Estatísticas
-
+<p>
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalbqe&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 <br>
 
 ### 📱 Redes
 
-- [Linkedin](https://www.linkedin.com/in/glaydsongabriel/?originalSubdomain=br)
-- [Instagram](https://www.instagram.com/gabrielalbq_/)
+<a href="https://www.linkedin.com/in/glaydsongabriel/?originalSubdomain=br"> Linkedin
+</a>
+<br/>
+  <a href="https://www.instagram.com/gabrielalbq_/"> Instagram
+</a>
