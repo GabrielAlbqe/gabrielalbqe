@@ -47,3 +47,9 @@ My name is Glaydson Gabriel de S. Albuquerque, but you can call me Gabriel Albuq
   />
 
 </p>
+<br>
+
+### 📱 Redes
+
+- [Linkedin](https://www.linkedin.com/in/glaydsongabriel/?originalSubdomain=br)
+- [Instagram](https://www.instagram.com/gabrielalbq_/)
