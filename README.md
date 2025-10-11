@@ -42,6 +42,14 @@ My name is Glaydson Gabriel de S. Albuquerque, but you can call me Gabriel Albuq
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/349419/javascript.svg" 
 />
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" 
+/>
 <br/>
 <br/>
 
