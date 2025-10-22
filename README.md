@@ -8,7 +8,7 @@ My name is Glaydson Gabriel de S. Albuquerque, but you can call me Gabriel Albuq
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -53,7 +53,7 @@ My name is Glaydson Gabriel de S. Albuquerque, but you can call me Gabriel Albuq
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 statistics
 <p>
 <img 
       align="left" 
@@ -64,7 +64,7 @@ My name is Glaydson Gabriel de S. Albuquerque, but you can call me Gabriel Albuq
 </p>
 <br>
 
-### 📱 Redes
+### 📱 Social media
 
 <a href="www.linkedin.com/in/gabrielalbqe"> Linkedin
 </a>
