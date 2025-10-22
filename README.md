@@ -63,6 +63,7 @@ My name is Glaydson Gabriel de S. Albuquerque, but you can call me Gabriel Albuq
   />
 </p>
 <br>
+<br>
 
 ### 📱 Social media
 
